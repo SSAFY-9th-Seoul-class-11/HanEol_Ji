@@ -2,8 +2,8 @@
 public class DF {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int[] s = new int[100];
+		System.out.println(s[2]);
 	}
 
 }
