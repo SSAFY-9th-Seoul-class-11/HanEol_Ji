@@ -22,10 +22,10 @@
   * [1860. 진기의 최고급 붕어빵](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/s1860_%EB%B6%95%EC%96%B4.java)
   * [1249. 보급로](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/s1249_%EB%B3%B4%EA%B8%89%EB%A1%9C.java)
 * BOJ(DFS/BFS)
- *[백준_11724] (https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/%EB%B0%B1%EC%A4%80_11724DFS.java)
- *[백준_2023DFS] (https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/tree/main/week2)
+  *[백준_11724](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/%EB%B0%B1%EC%A4%80_11724DFS.java)
+  *[백준_2023DFS](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/tree/main/week2)
 * 자유
- *[백준_1929소수] (https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/%EB%B0%B1%EC%A4%80_1929%EC%86%8C%EC%88%98.java)
+  *[백준_1929소수](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/%EB%B0%B1%EC%A4%80_1929%EC%86%8C%EC%88%98.java)
 * Programmers
 ## 4주차
 * SWEA
