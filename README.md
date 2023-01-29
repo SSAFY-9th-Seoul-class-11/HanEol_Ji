@@ -13,9 +13,9 @@
   * [1225. 암호생성기](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/SSAFY9_11_Algorithm_Study/src/SWEA/S1225.java)
   * [2806. N-Queen](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/SSAFY9_11_Algorithm_Study/src/SWEA/S2806.java)
 * BOJ
- * [13023. ABCDE](https://github.com/jihaneol/HanEol_Ji/blob/main/src/%EB%B0%B1%EC%A4%80_13023.java)
- * [11047. 동전 0](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/src/%EB%B0%B1%EC%A4%80_110474%EA%B7%B8%EB%A6%AC%EB%94%94.java)
- * [1715. 카드 정렬](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/src/%EB%B0%B1%EC%A4%80_1715%EA%B7%B8%EB%A6%AC%EB%94%94.java)
+  * [13023. ABCDE](https://github.com/jihaneol/HanEol_Ji/blob/main/src/%EB%B0%B1%EC%A4%80_13023.java)
+  * [11047. 동전 0](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/src/%EB%B0%B1%EC%A4%80_110474%EA%B7%B8%EB%A6%AC%EB%94%94.java)
+  * [1715. 카드 정렬](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/src/%EB%B0%B1%EC%A4%80_1715%EA%B7%B8%EB%A6%AC%EB%94%94.java)
 ## 3주차
 * SWEA
   * [1215. 회문1](https://github.com/SSAFY-9th-Seoul-class-11/HanEol_Ji/blob/main/week2/s1215_%ED%9A%8C%EB%AC%B8.java)
